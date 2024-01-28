@@ -55,7 +55,9 @@ function runGame() { }
 function movePaddle() { }
 function paddleColDetect() { }
 function everythingManager() { }
-function gameInit() { }
+function gameInit() { 
+    
+}
 
 
 
